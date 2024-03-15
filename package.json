@@ -1,0 +1,27 @@
+{
+  "name": "capchabustersjs",
+  "version": "1.0.0",
+  "description": "JS Wrapper for CaptchaBusters",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Its3rr0rsWRLD/CaptchaBusters.git"
+  },
+  "keywords": [
+    "captcha",
+    "captchabuster",
+    "captchabusters"
+  ],
+  "author": "ThatError_404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Its3rr0rsWRLD/CaptchaBusters/issues"
+  },
+  "homepage": "https://github.com/Its3rr0rsWRLD/CaptchaBusters#readme"
+}

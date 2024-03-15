@@ -1,6 +1,6 @@
 {
   "name": "capchabustersjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JS Wrapper for CaptchaBusters",
   "main": "lib/index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Its3rr0rsWRLD/CaptchaBusters.git"
+    "url": "git+https://github.com/Its3rr0rsWRLD/CaptchaBustersJS.git"
   },
   "keywords": [
     "captcha",

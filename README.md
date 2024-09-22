@@ -1,14 +1,12 @@
 # CaptchaBusters Node.js Package
 
+> :warning: Old repo! The service got shut down anyway :(
+
 This Node.js package provides a convenient way to interact with the CaptchaBusters API for solving captcha types.
 
 ## Installation
 
-To use this package, install it via npm:
-
-```bash
-npm install captchabusters-nodejs
-```
+~~To use this package, install it via npm:~~
 
 ## Usage
 
